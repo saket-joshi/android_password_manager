@@ -1,4 +1,5 @@
-Android Password Manager
+# Android Password Manager
 
-Author: Saket Joshi
-Version: 1.0
+##### Version: 1.0
+
+Password manager application for the android platform
